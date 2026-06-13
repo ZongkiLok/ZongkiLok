@@ -92,11 +92,15 @@
 ### 📫 Connect
 
 <p>
-  Feel free to reach out for collaboration on language-learning tools, academic research, journalism projects, or cross-cultural communication initiatives.
+  <a href="https://www.youtube.com/@socerrofler"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  &nbsp;
+  <a href="https://space.bilibili.com/zongkilok"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white" alt="Bilibili"></a>
+  &nbsp;
+  <a href="https://x.com/rofersocer"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X"></a>
+  &nbsp;
+  <a href="mailto:socerrofler@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
-
-<p align="center">
-  <sub>📧 Contact via GitHub or <a href="mailto:socerrofler@gmail.com">socerrofler@gmail.com</a></sub>
+<p>
+  <sub>Open to collaboration on language-learning tools, academic research, journalism, and cross-cultural communication.</sub>
 </p>
